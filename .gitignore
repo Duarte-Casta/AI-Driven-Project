@@ -1,6 +1,6 @@
 # Also ignore dataset files
-data/
-
+data/*
+!data/students_portugal.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
