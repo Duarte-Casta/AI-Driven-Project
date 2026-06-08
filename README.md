@@ -55,8 +55,6 @@ As variáveis da escala **WLE** são índices com base na **média dos países d
 |--------|-----------|---------|
 | `STU_GENDER` | Género do aluno  | `1` = Feminino, `2` = Masculino |
 | `ISCEDP` | Nível do programa de educação que o aluno frequenta (ISCED 2011) | Código de 3 dígitos (ver tabela abaixo) |
-| `IMMIG` | Background imigrante (definição OECD) | `1` = Nativo (aluno e pais nascidos no país), `2` = 2ª geração (aluno nascido no país, pais não), `3` = 1ª geração (aluno e pais nascidos noutro país) |
-| `LANGN` | Língua falada em casa | `232` = Português, `843` = Outra língua, `999` = Missing. Outros códigos internacionais possíveis. |
 
 **ISCEDP - Níveis de educação (ISCED 2011):**
 
