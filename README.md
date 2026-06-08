@@ -18,7 +18,7 @@ To achieve the proposed goals, the workflow was structured into the following st
 
 
 ## 👥 Authors
-* **[Duarte Castanheira]** 
-* **[Joel Matos]**
-* **[Rafael Custódio]**
+* **Duarte Castanheira** 
+* **Joel Matos**
+* **Rafael Custódio**
 
